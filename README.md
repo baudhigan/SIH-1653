@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 4/03/2025
+## Register Number: 212223230028
+## Name: Baudhigan D
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,6 +11,16 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+### 1. Boardroom Simulation: 
+ Develop an interactive platform where both the interviewer and the candidate are able to participate in a virtual interview setting. This would simulate a real-life boardroom experience, with tools for communication (video/audio/chat).
+### 2. Automated Question Generation:
+ The process should start with general, introductory questions (ice-breakers) and move into deeper (techno-managerial) questions, more specialized questions depending on the level of candidate driven by AI.
+### 3. Candidate Response Evaluation:
+ The candidate’s responses are analyzed in real-time using machine learning models which are trained to assess the relevance of the candidate's response to the question and the depth of knowledge displayed in the response.
+### 4. Overall Performance Assessment:
+ At the end of the interview, the system will generate a final score based on Relevancy and depth of responses, Correctness of answers and Communication and managerial abilities.
+### 5. Analytics and Insights:
+ Interviewers will have a comprehensive dashboard that shows the candidate’s performance over time, Scores for each individual question and a detailed breakdown of the candidate’s subject knowledge.
 
 
 ## Proposed Solution / Architecture Diagram
