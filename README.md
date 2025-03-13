@@ -24,13 +24,44 @@ Ministry of Defence
 
 
 ## Proposed Solution / Architecture Diagram
+![Add a heading](https://github.com/user-attachments/assets/fe85f4e0-6198-459e-9aae-9f31204bb691)
 
 
 ## Use Cases
+![Screenshot 2025-03-13 114814](https://github.com/user-attachments/assets/e2ee9992-a6ce-48c0-8d04-917100f9d487)
 
 
 ## Technology Stack
+Frontend: React.js/Next.js, WebRTC (Video/Audio), Tailwind CSS
 
+Backend: FastAPI/Flask, WebSockets, Celery + Redis
+
+AI & NLP: GPT/BERT, Whisper (Speech-to-Text), spaCy/NLTK, TensorFlow
+
+Database: PostgreSQL/MySQL, MongoDB, Elasticsearch
+
+DevOps: Docker, Kubernetes, AWS/GCP, CI/CD (GitHub Actions)
 
 ## Dependencies
+### Phase	Tasks	Time Estimate	Budget Estimate
 
+1.. Planning & Research	Requirement gathering, defining scope, tech stack finalization	2-3 weeks	5,000 - 10,000
+   
+2.. UI/UX Design	Wireframes, mockups, user flows for boardroom simulation	3-4 weeks	8,000 - 15,000
+   
+3.. Frontend Development	Implement React-based UI, WebRTC integration	5-6 weeks	15,000 - 25,000
+   
+4.. Backend Development	Develop API with FastAPI/Flask, integrate WebSockets	6-8 weeks	20,000 - 30,000
+   
+5.. AI & NLP Integration	AI-driven question generation, response evaluation	8-10 weeks	30,000 - 50,000
+    
+6.. Database & Security	Setup PostgreSQL/MongoDB, secure user data	4-5 weeks	10,000 - 20,000
+    
+7.. Testing & Debugging	Unit testing, load testing, AI accuracy evaluation	4-6 weeks	15,000 - 25,000
+    
+8.. Deployment & Optimization	Cloud deployment (AWS/GCP), performance tuning	3-4 weeks	10,000 - 20,000
+   
+9.. Maintenance & Support	Bug fixes, updates, AI model fine-tuning	Ongoing	5,000 - 10,000/month
+    
+Total Estimated Time: 6-9 months
+Total Estimated Budget: 100,000 - 180,000
